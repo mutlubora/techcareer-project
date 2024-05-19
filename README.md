@@ -9,7 +9,6 @@ Spring Boot And React JS
 ## TECHNOLOGY 
 - HTML5
 - CSS3
-- JS
 - BOOTSTRAP5
 - JAVASCRIPT
 - REACT
