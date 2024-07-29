@@ -20,7 +20,7 @@ const TodoList = ({
             className="btn btn-info btn-block mt-1"
             onClick={() => updateTodosToShow("all")}
           >
-            All
+            All Tasks
           </button>
         </div>
         <div className="col-md-4">
